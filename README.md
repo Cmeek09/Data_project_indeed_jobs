@@ -1,0 +1,3 @@
+As a recent college grad I think my student not already landing a role look to see where the best opporunities for jobs are, the going pay rate if given and base their decisions from here.  This may even be some many do prior to graduating I recommend if you're interested taking a look and see if a certain 
+
+The goal of thsi data project is to get the general feel for software jobs and their respective locationa and pay.  The intention is to see if 
